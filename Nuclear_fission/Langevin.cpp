@@ -31,7 +31,7 @@ Langevin::Langevin(double m, int A, double V_gs, double gamma, double r1, double
 	p = 1000;    //������� �������
 
 	n = 0;       //����� ���� �� �������
-	B_f = 12.8; //�������
+	B_f = 9.3; //�������
 	T = sqrt(Energy() * 10 / A); //�����������
 	q = 0.375;
 	C_gs = 200;
