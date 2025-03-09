@@ -36,7 +36,7 @@ Langevin::Langevin(double m, int A, double V_gs, double gamma, double r1, double
 	q = 0.375;
 	C_gs = 200;
 	C_sd = 200;
-	E_tot = E_int + EnergyKin() + Energy();//Полная энергия
+	E_tot = E_int + p * p / 2 / m + Energy();//Полная энергия
 
 }
 
