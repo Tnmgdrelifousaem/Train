@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{E91E794B-77B3-4C7A-8230-317E528E1AD9}|Nuclear_fission\\Nuclear_fission.vcxproj|solutionrelative:Nuclear_fission\\Langevin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E91E794B-77B3-4C7A-8230-317E528E1AD9}|Nuclear_fission\\Nuclear_fission.vcxproj|C:\\Users\\Tnmgdrelifousaem\\source\\repos\\Nuclear_fission\\Nuclear_fission\\Langevin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E91E794B-77B3-4C7A-8230-317E528E1AD9}|Nuclear_fission\\Nuclear_fission.vcxproj|solutionrelative:Nuclear_fission\\Langevin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E91E794B-77B3-4C7A-8230-317E528E1AD9}|Nuclear_fission\\Nuclear_fission.vcxproj|C:\\Users\\Tnmgdrelifousaem\\source\\repos\\Nuclear_fission\\Nuclear_fission\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
       "RelativeMoniker": "D:0:0:{E91E794B-77B3-4C7A-8230-317E528E1AD9}|Nuclear_fission\\Nuclear_fission.vcxproj|solutionrelative:Nuclear_fission\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E91E794B-77B3-4C7A-8230-317E528E1AD9}|Nuclear_fission\\Nuclear_fission.vcxproj|C:\\Users\\Tnmgdrelifousaem\\source\\repos\\Nuclear_fission\\Nuclear_fission\\Mathods.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E91E794B-77B3-4C7A-8230-317E528E1AD9}|Nuclear_fission\\Nuclear_fission.vcxproj|solutionrelative:Nuclear_fission\\Mathods.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E91E794B-77B3-4C7A-8230-317E528E1AD9}|Nuclear_fission\\Nuclear_fission.vcxproj|C:\\Users\\Tnmgdrelifousaem\\source\\repos\\Nuclear_fission\\Nuclear_fission\\Langevin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E91E794B-77B3-4C7A-8230-317E528E1AD9}|Nuclear_fission\\Nuclear_fission.vcxproj|solutionrelative:Nuclear_fission\\Langevin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E91E794B-77B3-4C7A-8230-317E528E1AD9}|Nuclear_fission\\Nuclear_fission.vcxproj|C:\\Users\\Tnmgdrelifousaem\\source\\repos\\Nuclear_fission\\Nuclear_fission\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\Tnmgdrelifousaem\\source\\repos\\Nuclear_fission\\Nuclear_fission\\MyForm.h",
               "RelativeDocumentMoniker": "Nuclear_fission\\MyForm.h",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Nuclear_fission\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-29T04:31:35.636Z",
-              "IsPinned": true,
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "Nuclear_fission\\Langevin.cpp",
               "ToolTip": "C:\\Users\\Tnmgdrelifousaem\\source\\repos\\Nuclear_fission\\Nuclear_fission\\Langevin.cpp",
               "RelativeToolTip": "Nuclear_fission\\Langevin.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAABAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-29T04:42:51.494Z",
               "IsPinned": true,
@@ -61,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Mathods.h",
               "DocumentMoniker": "C:\\Users\\Tnmgdrelifousaem\\source\\repos\\Nuclear_fission\\Nuclear_fission\\Mathods.h",
               "RelativeDocumentMoniker": "Nuclear_fission\\Mathods.h",
@@ -69,12 +68,11 @@
               "RelativeToolTip": "Nuclear_fission\\Mathods.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-09T19:28:57.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T19:28:57.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Langevin.h",
               "DocumentMoniker": "C:\\Users\\Tnmgdrelifousaem\\source\\repos\\Nuclear_fission\\Nuclear_fission\\Langevin.h",
               "RelativeDocumentMoniker": "Nuclear_fission\\Langevin.h",
@@ -95,8 +93,7 @@
               "RelativeToolTip": "Nuclear_fission\\MyForm.h",
               "ViewState": "AQIAAJECAAAAAAAAAAAMwC4CAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-29T04:46:13.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T04:46:13.995Z"
             }
           ]
         }
