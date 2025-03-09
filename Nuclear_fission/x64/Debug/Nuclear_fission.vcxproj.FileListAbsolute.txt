@@ -1,6 +1,0 @@
-C:\Users\MECHREVO\source\repos\Nuclear_fission\Nuclear_fission\x64\Debug\Nuclear_fission.vcxproj.AssemblyReference.cache
-C:\Users\MECHREVO\source\repos\Nuclear_fission\Nuclear_fission\x64\Debug\Nuclearfission.MyForm.resources
-C:\Users\MECHREVO\source\repos\Nuclear_fission\Nuclear_fission\x64\Debug\Nuclear_fission.vcxproj.GenerateResource.cache
-C:\Users\Tnmgdrelifousaem\source\repos\Nuclear_fission\Nuclear_fission\x64\Debug\Nuclear_fission.vcxproj.AssemblyReference.cache
-C:\Users\Tnmgdrelifousaem\source\repos\Nuclear_fission\Nuclear_fission\x64\Debug\Nuclearfission.MyForm.resources
-C:\Users\Tnmgdrelifousaem\source\repos\Nuclear_fission\Nuclear_fission\x64\Debug\Nuclear_fission.vcxproj.GenerateResource.cache
