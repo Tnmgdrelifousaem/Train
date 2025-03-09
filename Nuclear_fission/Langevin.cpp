@@ -11,7 +11,7 @@ double Langevin::normalDistributionBoxMuller(double mean, double variance) {
 	return mean + sqrt(variance) * z0;
 }
 
-double Langevin::dVdq() {//��������������� ����, ����������� ��� ������������������ � ��������������� ���������������
+double Langevin::dVdq() {//Ñèñòåìàòè÷åñêàÿ ñèëà, âîçíèêàþùàÿ ïðè âíóòðèìîëåêóëÿðíûõ è ìåæìîëåêóëÿðíûõ âçàèìîäåéñòâèÿõ
 	if (q < r1) {
 		return C_gs*(q-r_gs);
 	}
@@ -23,20 +23,20 @@ void Langevin::Init() {
 }
 
 Langevin::Langevin(double m, int A, double V_gs, double gamma, double r1, double r_gs, double r_sd, double r_sc, double p, int n, double tau, double E_int): m(m), A(A), V_gs(V_gs), gamma(gamma), r1(r1), r_gs(r_gs), r_sd(r_sd), r_sc(r_sc), p(p), n(n), tau(tau), E_int(E_int) {
-	Ksi = 0; //���������������������� �������� � ���������� 2
-	Teta = 1;//��������� ��������� ����
+	Ksi = 0; //Íîðìàëüíîðàñïðåäåë¸ííàÿ âåëè÷èíà ñ äèñïåðñèåé 2
+	Teta = 1;//Àìïëèòóäà ñëó÷àéíîé ñèëû
 
-	//����������
-	E_pot = 0;//������������� �������
-	p = 1000;    //������� �������
+	//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+	E_pot = 0;//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+	p = 1000;    //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
-	n = 0;       //����� ���� �� �������
-	B_f = 9.3; //�������
-	T = sqrt(Energy() * 10 / A); //�����������
+	n = 0;       //Íîìåð øàãà ïî âðåìåíè
+	B_f = 9.3; //Áàððüåð
+	T = sqrt(Energy() * 10 / A); //Òåìïåðàòóðà
 	q = 0.375;
 	C_gs = 200;
 	C_sd = 200;
-	E_tot = E_int + EnergyKin() + Energy();//������ �������
+	E_tot = E_int + p * p / 2 / m + Energy();//Ïîëíàÿ ýíåðãèÿ
 
 }
 
